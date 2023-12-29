@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. Yin | Home</title>
+    <link>https://zhaokai-ee.github.io/authors/h.-yin/</link>
+      <atom:link href="https://zhaokai-ee.github.io/authors/h.-yin/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. Yin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhaokai-ee.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>H. Yin</title>
+      <link>https://zhaokai-ee.github.io/authors/h.-yin/</link>
+    </image>
+    
+    <item>
+      <title>On-Load Field Prediction of Surface-Mounted PM Machines Considering Nonlinearity Based on Hybrid Field Model</title>
+      <link>https://zhaokai-ee.github.io/publication/on-load-field-prediction-of-surface-mounted-pm-machines-considering-nonlinearity-based-on-hybrid-field-model/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/on-load-field-prediction-of-surface-mounted-pm-machines-considering-nonlinearity-based-on-hybrid-field-model/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

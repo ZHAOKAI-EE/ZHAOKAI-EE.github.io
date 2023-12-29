@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference | Home</title>
+    <link>https://zhaokai-ee.github.io/tags/conference/</link>
+      <atom:link href="https://zhaokai-ee.github.io/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conference</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Sat, 23 Dec 2023 19:15:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhaokai-ee.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Conference</title>
+      <link>https://zhaokai-ee.github.io/tags/conference/</link>
+    </image>
+    
+    <item>
+      <title>Study at IEMDC 2023 </title>
+      <link>https://zhaokai-ee.github.io/post/iemdc2023/</link>
+      <pubDate>Sat, 23 Dec 2023 19:15:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/post/iemdc2023/</guid>
+      <description>&lt;p&gt;Please refer to the original version to our group blog &lt;a href=&#34;https://www.kth.se/blogs/emd/&#34;&gt;KTH EMD&lt;/a&gt;.
+It has been half a year since I participated in this international conference. Before I start to memorize the event at that conference, I would like to recommend some good conferences that are related to our research field (Maybe useful for fresh PhD and master students).  ECCE and ICEM are two of the most famous conferences in the field of electrical machines, I think. ECCE is held every year, while ICEM is held every two years. Besides, I would recommend ICEMS, PEMD, and IEMDC which attract lots of motor engineers. For the motor design, Intermag and CEFC are good conferences, where many conference papers can be published in the IEEE Transaction on Magnetics. Meanwhile, IECON is related to the field of motor control. As the transportation electrification is more and more popular nowadays, I think we can consider submitting the papers to VPPC and ITEC.&lt;br&gt;
+Let’s come back to the conference IEMDC 2023. Please allow me to copy the description of this conference from the official &lt;a href=&#34;https://www.iemdc.org/&#34;&gt;website&lt;/a&gt; so that I don’t need to summarizeit :). The 14th IEEE International Electric Machines and Drives Conference (IEMDC) was held May 15-18, 2023 in San Francisco, CA. IEMDC provides a forum to share technology advances and new developments in the design, operation, analysis, and applications of electric machines and drives. Contributions are invited from industry, academia, and other sectors. Accepted and presented papers will be published in the Conference Proceedings, which will be submitted to the IEEE Xplore® digital library. Papers presented at IEMDC may be submitted to IEEE Transactions on Industry Applications, IEEE Transactions on Energy Conversion, IEEE Transactions on Industrial Electronics, or IEEE Transactions on Power Electronics, according to the rules specific to each journal.&lt;br&gt;
+This year, I guessed that only two hundred participants, which is not as large as before. For me, I found two interesting trends from the tutorial of the conference. The first interesting topic is the application of hairpin winding. Still, lots of researchers are working on the improvement of the hairpin winding. The professors from the University of Nottingham gave excellent speeches to show their findings. The other interesting topic is the application of additive manufacturing (3-D print) on motor design. The Marquette University built a high power density motor equipped with additively manufactured windings and integrated with advanced cooling and modular integrated power electronics, which is fascinating. Of course, other tutorial topics are very interesting, but I cannot join as they were held at the same time slot.&lt;br&gt;
+At the conference, I met lots of famous professors from all over the world and engineers from well-known companies. I felt that we needed to know more about the accomplishments that the company has already achieved and try to fulfill the needs of the industry if we could (or we can focus). That will be beneficial to both academia and industry. &lt;br&gt;
+Last but the least, I would like to present our papers at this conference entitled ”Design Comparison of Outer- and Inner-Rotor Permanent Magnet Motors for Hydrofoil Boat”. It gives some comparison of different kinds of PM motors. I hope to extend this paper soon and submit it to the journals. &lt;br&gt;
+Finally, I would like to present some beautiful pictures of San Francisco. I love the weather there. Even though I was told that it was dangerous in the city center, I felt safe during my stay. Some pictures around the city.&lt;br&gt;
+By the way, I’m looking forward to seeing the post of IECON 2023, in which I was absent. I believe that Yixuan, Gustaf, and Xinpo had a pleasant time in Singapore. It is really nice to see that EMDers reunite somewhere. I cannot say that I didn’t envy you guys. Also, I hope to see you all soon.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Merry Christmas!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

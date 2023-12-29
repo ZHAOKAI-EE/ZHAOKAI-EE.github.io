@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dongdong Jiang | Home</title>
+    <link>https://zhaokai-ee.github.io/authors/dongdong-jiang/</link>
+      <atom:link href="https://zhaokai-ee.github.io/authors/dongdong-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dongdong Jiang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhaokai-ee.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Dongdong Jiang</title>
+      <link>https://zhaokai-ee.github.io/authors/dongdong-jiang/</link>
+    </image>
+    
+    <item>
+      <title>Nonlinear Analytical Modelling for Surface-Mounted Permanent Magnet Motors with Magnet Defect Fault</title>
+      <link>https://zhaokai-ee.github.io/publication/nonlinear-analytical-modelling-for-surface-mounted-permanent-magnet-motors-with-magnet-defect-fault/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/nonlinear-analytical-modelling-for-surface-mounted-permanent-magnet-motors-with-magnet-defect-fault/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

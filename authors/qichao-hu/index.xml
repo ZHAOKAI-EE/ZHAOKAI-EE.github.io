@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qichao Hu | Home</title>
+    <link>https://zhaokai-ee.github.io/authors/qichao-hu/</link>
+      <atom:link href="https://zhaokai-ee.github.io/authors/qichao-hu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qichao Hu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhaokai-ee.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Qichao Hu</title>
+      <link>https://zhaokai-ee.github.io/authors/qichao-hu/</link>
+    </image>
+    
+    <item>
+      <title>A Modified Deadbeat Predictive Current Control for Improving Dynamic Performance of PMSM</title>
+      <link>https://zhaokai-ee.github.io/publication/a-modified-deadbeat-predictive-current-control-for-improving-dynamic-performance-of-pmsm/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/a-modified-deadbeat-predictive-current-control-for-improving-dynamic-performance-of-pmsm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
