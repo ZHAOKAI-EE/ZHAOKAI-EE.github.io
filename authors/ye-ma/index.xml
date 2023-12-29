@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ye Ma | Home</title>
+    <link>https://zhaokai-ee.github.io/authors/ye-ma/</link>
+      <atom:link href="https://zhaokai-ee.github.io/authors/ye-ma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ye Ma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhaokai-ee.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Ye Ma</title>
+      <link>https://zhaokai-ee.github.io/authors/ye-ma/</link>
+    </image>
+    
+    <item>
+      <title>Nonlinear Analytical Model-Embedded Optimal Design for ER-PMSM</title>
+      <link>https://zhaokai-ee.github.io/publication/nonlinear-analytical-model-embedded-optimal-design-for-er-pmsm/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/nonlinear-analytical-model-embedded-optimal-design-for-er-pmsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Analysis of Quasi-Halbach Array Permanent-Magnet Motors Based on Field Separation Theory</title>
+      <link>https://zhaokai-ee.github.io/publication/analytical-analysis-of-quasi-halbach-array-permanent-magnet-motors-based-on-field-separation-theory/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/analytical-analysis-of-quasi-halbach-array-permanent-magnet-motors-based-on-field-separation-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability-Oriented Multi-Objective Optimization of Electrical Machines Considering Insulation Thermal Lifetime Prediction</title>
+      <link>https://zhaokai-ee.github.io/publication/reliability-oriented-multi-objective-optimization-of-electrical-machines-considering-insulation-thermal-lifetime-prediction/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/reliability-oriented-multi-objective-optimization-of-electrical-machines-considering-insulation-thermal-lifetime-prediction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://zhaokai-ee.github.io/authors/zixuan-liu/</link>
       <atom:link href="https://zhaokai-ee.github.io/authors/zixuan-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Zixuan Liu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Sat, 29 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhaokai-ee.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Zixuan Liu</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>A Robust Deadbeat Predictive Current Control Method for IPMSM</title>
+      <link>https://zhaokai-ee.github.io/publication/a-robust-deadbeat-predictive-current-control-method-for-ipmsm/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/a-robust-deadbeat-predictive-current-control-method-for-ipmsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Analytical Model of Electromagnetic Performance for Permanent-Magnet Vernier Machines Using Nonlinear Exact Conformal Model</title>
       <link>https://zhaokai-ee.github.io/publication/analytical-model-of-electromagnetic-performance-for-permanent-magnet-vernier-machines-using-nonlinear-exact-conformal-model/</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://zhaokai-ee.github.io/publication/analytical-model-of-electromagnetic-performance-for-permanent-magnet-vernier-machines-using-nonlinear-exact-conformal-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Identification of Inductance and Flux Linkage for Inverter-Fed SPMSMs Using Switching State Functions</title>
+      <link>https://zhaokai-ee.github.io/publication/online-identification-of-inductance-and-flux-linkage-for-inverter-fed-spmsms-using-switching-state-functions/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/online-identification-of-inductance-and-flux-linkage-for-inverter-fed-spmsms-using-switching-state-functions/</guid>
       <description></description>
     </item>
     

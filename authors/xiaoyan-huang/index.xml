@@ -5,7 +5,7 @@
     <link>https://zhaokai-ee.github.io/authors/xiaoyan-huang/</link>
       <atom:link href="https://zhaokai-ee.github.io/authors/xiaoyan-huang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaoyan Huang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Sat, 29 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhaokai-ee.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Xiaoyan Huang</title>
@@ -13,10 +13,82 @@
     </image>
     
     <item>
+      <title>A Robust Deadbeat Predictive Current Control Method for IPMSM</title>
+      <link>https://zhaokai-ee.github.io/publication/a-robust-deadbeat-predictive-current-control-method-for-ipmsm/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/a-robust-deadbeat-predictive-current-control-method-for-ipmsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Improved Rotor Position Estimation Method for SPMSM with Misaligned Hall-Effect Sensor</title>
+      <link>https://zhaokai-ee.github.io/publication/an-improved-rotor-position-estimation-method-for-spmsm-with-misaligned-hall-effect-sensor/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/an-improved-rotor-position-estimation-method-for-spmsm-with-misaligned-hall-effect-sensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Analytical Model for Predicting the Electromagnetic Losses in Surface-Mounted Permanent-Magnet Motors</title>
+      <link>https://zhaokai-ee.github.io/publication/hybrid-analytical-model-for-predicting-the-electromagnetic-losses-in-surface-mounted-permanent-magnet-motors/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/hybrid-analytical-model-for-predicting-the-electromagnetic-losses-in-surface-mounted-permanent-magnet-motors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Analytical Model-Embedded Optimal Design for ER-PMSM</title>
+      <link>https://zhaokai-ee.github.io/publication/nonlinear-analytical-model-embedded-optimal-design-for-er-pmsm/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/nonlinear-analytical-model-embedded-optimal-design-for-er-pmsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Analysis of Quasi-Halbach Array Permanent-Magnet Motors Based on Field Separation Theory</title>
+      <link>https://zhaokai-ee.github.io/publication/analytical-analysis-of-quasi-halbach-array-permanent-magnet-motors-based-on-field-separation-theory/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/analytical-analysis-of-quasi-halbach-array-permanent-magnet-motors-based-on-field-separation-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability-Oriented Multi-Objective Optimization of Electrical Machines Considering Insulation Thermal Lifetime Prediction</title>
+      <link>https://zhaokai-ee.github.io/publication/reliability-oriented-multi-objective-optimization-of-electrical-machines-considering-insulation-thermal-lifetime-prediction/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/reliability-oriented-multi-objective-optimization-of-electrical-machines-considering-insulation-thermal-lifetime-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Natural Position Observer with Vertical Detection Coil for FSCW Machines</title>
+      <link>https://zhaokai-ee.github.io/publication/a-natural-position-observer-with-vertical-detection-coil-for-fscw-machines/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/a-natural-position-observer-with-vertical-detection-coil-for-fscw-machines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Analytical Model of Electromagnetic Performance for Permanent-Magnet Vernier Machines Using Nonlinear Exact Conformal Model</title>
       <link>https://zhaokai-ee.github.io/publication/analytical-model-of-electromagnetic-performance-for-permanent-magnet-vernier-machines-using-nonlinear-exact-conformal-model/</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://zhaokai-ee.github.io/publication/analytical-model-of-electromagnetic-performance-for-permanent-magnet-vernier-machines-using-nonlinear-exact-conformal-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Identification of Inductance and Flux Linkage for Inverter-Fed SPMSMs Using Switching State Functions</title>
+      <link>https://zhaokai-ee.github.io/publication/online-identification-of-inductance-and-flux-linkage-for-inverter-fed-spmsms-using-switching-state-functions/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/online-identification-of-inductance-and-flux-linkage-for-inverter-fed-spmsms-using-switching-state-functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overall Electrical Parameters Identification for IPMSMs Using Current Derivative to Avoid Rank Deficiency</title>
+      <link>https://zhaokai-ee.github.io/publication/overall-electrical-parameters-identification-for-ipmsms-using-current-derivative-to-avoid-rank-deficiency/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/overall-electrical-parameters-identification-for-ipmsms-using-current-derivative-to-avoid-rank-deficiency/</guid>
       <description></description>
     </item>
     
