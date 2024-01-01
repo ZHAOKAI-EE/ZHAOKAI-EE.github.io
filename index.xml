@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home</title>
+    <title>Zhaokai</title>
     <link>https://zhaokai-ee.github.io/</link>
       <atom:link href="https://zhaokai-ee.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Home</description>
+    <description>Zhaokai</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhaokai-ee.github.io/images/icon_hu48ea973b72a836bf9a5fd0201387e78c_21303_512x512_fill_lanczos_center_3.png</url>
-      <title>Home</title>
+      <title>Zhaokai</title>
       <link>https://zhaokai-ee.github.io/</link>
     </image>
     
@@ -71,6 +71,21 @@
 &lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stockholm Bonfire</title>
+      <link>https://zhaokai-ee.github.io/post/newyear2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/post/newyear2024/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m really happy to spend the first day of 2024 with my beloved wife and my best friends.
+(This post also help me to learn how to put a video in the blog, hahaha)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Happy New Year!&lt;/strong&gt;&lt;/p&gt;
+&lt;video controls preload=&#34;auto&#34; width=&#34;100%&#34;  playsinline class=&#34;html-video&#34;&gt;
+    &lt;source src=&#34;https://zhaokai-ee.github.io/post/newyear2024/bofire.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;span&gt;Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can &lt;a href=&#34;https://zhaokai-ee.github.io/post/newyear2024/bofire.mp4&#34;&gt;download it&lt;/a&gt; and watch it with your favorite video player!&lt;/span&gt;
+&lt;/video&gt;
 </description>
     </item>
     

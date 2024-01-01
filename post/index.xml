@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Home</title>
+    <title>Posts | Zhaokai</title>
     <link>https://zhaokai-ee.github.io/post/</link>
       <atom:link href="https://zhaokai-ee.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Sat, 23 Dec 2023 19:15:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhaokai-ee.github.io/img/boards.jpg</url>
       <title>Posts</title>
       <link>https://zhaokai-ee.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Stockholm Bonfire</title>
+      <link>https://zhaokai-ee.github.io/post/newyear2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/post/newyear2024/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m really happy to spend the first day of 2024 with my beloved wife and my best friends.
+(This post also help me to learn how to put a video in the blog, hahaha)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Happy New Year!&lt;/strong&gt;&lt;/p&gt;
+&lt;video controls preload=&#34;auto&#34; width=&#34;100%&#34;  playsinline class=&#34;html-video&#34;&gt;
+    &lt;source src=&#34;https://zhaokai-ee.github.io/post/newyear2024/bofire.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;span&gt;Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can &lt;a href=&#34;https://zhaokai-ee.github.io/post/newyear2024/bofire.mp4&#34;&gt;download it&lt;/a&gt; and watch it with your favorite video player!&lt;/span&gt;
+&lt;/video&gt;
+</description>
+    </item>
     
     <item>
       <title>Study at IEMDC 2023 </title>

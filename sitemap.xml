@@ -14,20 +14,35 @@
     <loc>https://zhaokai-ee.github.io/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhaokai-ee.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://zhaokai-ee.github.io/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://zhaokai-ee.github.io/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://zhaokai-ee.github.io/authors/zhaokai/</loc>
-    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zhaokai-ee.github.io/authors/</loc>
-    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zhaokai-ee.github.io/categories/</loc>
-    <lastmod>2022-09-23T19:15:00+00:00</lastmod>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaokai-ee.github.io/tags/fun/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaokai-ee.github.io/post/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaokai-ee.github.io/post/newyear2024/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaokai-ee.github.io/tags/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhaokai-ee.github.io/categories/tour/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zhaokai-ee.github.io/tags/conference/</loc>
     <lastmod>2022-09-23T19:15:00+00:00</lastmod>
@@ -35,14 +50,8 @@
     <loc>https://zhaokai-ee.github.io/categories/conference/</loc>
     <lastmod>2022-09-23T19:15:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhaokai-ee.github.io/post/</loc>
-    <lastmod>2022-09-23T19:15:00+00:00</lastmod>
-  </url><url>
     <loc>https://zhaokai-ee.github.io/post/iemdc2023/</loc>
     <lastmod>2022-09-23T19:15:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhaokai-ee.github.io/tags/</loc>
-    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zhaokai-ee.github.io/publication_types/2/</loc>
     <lastmod>2023-10-10T00:00:00+00:00</lastmod>
@@ -123,9 +132,6 @@
     <lastmod>2023-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zhaokai-ee.github.io/publication_types/1/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhaokai-ee.github.io/authors/admin/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zhaokai-ee.github.io/publication/conference-design-comparison-of-outer-and-inner-rotor-permanent-magnet-motors-for-hydrofoil-boat/</loc>

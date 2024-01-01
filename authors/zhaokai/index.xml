@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home</title>
+    <title>Zhaokai</title>
     <link>https://zhaokai-ee.github.io/authors/zhaokai/</link>
       <atom:link href="https://zhaokai-ee.github.io/authors/zhaokai/index.xml" rel="self" type="application/rss+xml" />
-    <description>Home</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Sat, 23 Dec 2023 19:15:00 +0000</lastBuildDate>
+    <description>Zhaokai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhaokai-ee.github.io/images/icon_hu48ea973b72a836bf9a5fd0201387e78c_21303_512x512_fill_lanczos_center_3.png</url>
-      <title>Home</title>
+      <title>Zhaokai</title>
       <link>https://zhaokai-ee.github.io/authors/zhaokai/</link>
     </image>
+    
+    <item>
+      <title>Stockholm Bonfire</title>
+      <link>https://zhaokai-ee.github.io/post/newyear2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/post/newyear2024/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m really happy to spend the first day of 2024 with my beloved wife and my best friends.
+(This post also help me to learn how to put a video in the blog, hahaha)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Happy New Year!&lt;/strong&gt;&lt;/p&gt;
+&lt;video controls preload=&#34;auto&#34; width=&#34;100%&#34;  playsinline class=&#34;html-video&#34;&gt;
+    &lt;source src=&#34;https://zhaokai-ee.github.io/post/newyear2024/bofire.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;span&gt;Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can &lt;a href=&#34;https://zhaokai-ee.github.io/post/newyear2024/bofire.mp4&#34;&gt;download it&lt;/a&gt; and watch it with your favorite video player!&lt;/span&gt;
+&lt;/video&gt;
+</description>
+    </item>
     
     <item>
       <title>Study at IEMDC 2023 </title>
@@ -75,6 +90,25 @@ By the way, I’m looking forward to seeing the post of IECON 2023, in which I w
       <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://zhaokai-ee.github.io/publication/reliability-oriented-multi-objective-optimization-of-electrical-machines-considering-insulation-thermal-lifetime-prediction/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Design Comparison of Outer- and Inner-Rotor Permanent Magnet Motors for Hydrofoil Boat</title>
+      <link>https://zhaokai-ee.github.io/publication/conference-design-comparison-of-outer-and-inner-rotor-permanent-magnet-motors-for-hydrofoil-boat/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/conference-design-comparison-of-outer-and-inner-rotor-permanent-magnet-motors-for-hydrofoil-boat/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
