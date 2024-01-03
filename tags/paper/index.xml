@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paper | Zhaokai</title>
+    <link>https://zhaokai-ee.github.io/tags/paper/</link>
+      <atom:link href="https://zhaokai-ee.github.io/tags/paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>paper</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Fri, 29 Dec 2023 01:16:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhaokai-ee.github.io/images/icon_hu48ea973b72a836bf9a5fd0201387e78c_21303_512x512_fill_lanczos_center_3.png</url>
+      <title>paper</title>
+      <link>https://zhaokai-ee.github.io/tags/paper/</link>
+    </image>
+    
+    <item>
+      <title>Journal Paper</title>
+      <link>https://zhaokai-ee.github.io/news/20231224/</link>
+      <pubDate>Fri, 29 Dec 2023 01:16:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/news/20231224/</guid>
+      <description>&lt;p&gt;I would appreciate all the co-authers for their contribution in the paper entitled &amp;ldquo;Hybrid Analytical Model of Permanent Magnet Linear Motor Considering Iron Saturation and End Effect&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

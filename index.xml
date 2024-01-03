@@ -90,6 +90,25 @@
     </item>
     
     <item>
+      <title>Experiment</title>
+      <link>https://zhaokai-ee.github.io/news/20231230/</link>
+      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/news/20231230/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m really happy to learn from it!
+&lt;strong&gt;Happy New Year!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Journal Paper</title>
+      <link>https://zhaokai-ee.github.io/news/20231224/</link>
+      <pubDate>Fri, 29 Dec 2023 01:16:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/news/20231224/</guid>
+      <description>&lt;p&gt;I would appreciate all the co-authers for their contribution in the paper entitled &amp;ldquo;Hybrid Analytical Model of Permanent Magnet Linear Motor Considering Iron Saturation and End Effect&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Study at IEMDC 2023 </title>
       <link>https://zhaokai-ee.github.io/post/iemdc2023/</link>
       <pubDate>Sat, 23 Dec 2023 19:15:00 +0000</pubDate>
@@ -230,6 +249,15 @@ By the way, I’m looking forward to seeing the post of IECON 2023, in which I w
     </item>
     
     <item>
+      <title>Efficiency Low Cost Fan Motor</title>
+      <link>https://zhaokai-ee.github.io/project/high-efficiency-fan-motor/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/project/high-efficiency-fan-motor/</guid>
+      <description>&lt;p&gt;We developped a fan motor for data center. The current efficiency of the external-rotor SPM motor is 91.2%.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Nonlinear Analytical Modelling for Surface-Mounted Permanent Magnet Motors with Magnet Defect Fault</title>
       <link>https://zhaokai-ee.github.io/publication/nonlinear-analytical-modelling-for-surface-mounted-permanent-magnet-motors-with-magnet-defect-fault/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
@@ -243,6 +271,15 @@ By the way, I’m looking forward to seeing the post of IECON 2023, in which I w
       <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://zhaokai-ee.github.io/publication/electromagnetic-analysis-for-interior-permanent-magnet-machine-using-hybrid-subdomain-model/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Motor Condition Monitor and Fault Diagnosis</title>
+      <link>https://zhaokai-ee.github.io/project/motor-faults/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/project/motor-faults/</guid>
+      <description>&lt;p&gt;We optimized and design the six-phase SPM motors with demagnetization and eccentric rotor using JMAG.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -283,6 +320,15 @@ By the way, I’m looking forward to seeing the post of IECON 2023, in which I w
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://zhaokai-ee.github.io/publication/a-modified-deadbeat-predictive-current-control-for-improving-dynamic-performance-of-pmsm/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Design of High-Speed Permanent-Magnet Motor</title>
+      <link>https://zhaokai-ee.github.io/project/high-speed-pmsm/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/project/high-speed-pmsm/</guid>
+      <description>&lt;p&gt;We presented the comprehensive study of IPM and SPM at the speed range between 15000 rpm and 20000 rpm.&lt;/p&gt;
+</description>
     </item>
     
     <item>

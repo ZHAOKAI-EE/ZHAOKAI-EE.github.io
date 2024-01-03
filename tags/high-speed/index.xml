@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>High-Speed | Zhaokai</title>
+    <link>https://zhaokai-ee.github.io/tags/high-speed/</link>
+      <atom:link href="https://zhaokai-ee.github.io/tags/high-speed/index.xml" rel="self" type="application/rss+xml" />
+    <description>High-Speed</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhaokai-ee.github.io/images/icon_hu48ea973b72a836bf9a5fd0201387e78c_21303_512x512_fill_lanczos_center_3.png</url>
+      <title>High-Speed</title>
+      <link>https://zhaokai-ee.github.io/tags/high-speed/</link>
+    </image>
+    
+    <item>
+      <title>Design of High-Speed Permanent-Magnet Motor</title>
+      <link>https://zhaokai-ee.github.io/project/high-speed-pmsm/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/project/high-speed-pmsm/</guid>
+      <description>&lt;p&gt;We presented the comprehensive study of IPM and SPM at the speed range between 15000 rpm and 20000 rpm.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
