@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project | Zhaokai</title>
+    <link>https://zhaokai-ee.github.io/categories/project/</link>
+      <atom:link href="https://zhaokai-ee.github.io/categories/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Project</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhaokai-ee.github.io/images/icon_hu48ea973b72a836bf9a5fd0201387e78c_21303_512x512_fill_lanczos_center_3.png</url>
+      <title>Project</title>
+      <link>https://zhaokai-ee.github.io/categories/project/</link>
+    </image>
+    
+    <item>
+      <title>Course</title>
+      <link>https://zhaokai-ee.github.io/news/20230401/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/news/20230401/</guid>
+      <description>&lt;p&gt;I was really happy to be one of the team member. The knowledge of permanent magnet is useful for the motor designer.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
