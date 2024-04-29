@@ -5,12 +5,20 @@
     <link>https://zhaokai-ee.github.io/authors/luca-peretti/</link>
       <atom:link href="https://zhaokai-ee.github.io/authors/luca-peretti/index.xml" rel="self" type="application/rss+xml" />
     <description>Luca Peretti</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhaokai-ee.github.io/images/icon_hu48ea973b72a836bf9a5fd0201387e78c_21303_512x512_fill_lanczos_center_3.png</url>
       <title>Luca Peretti</title>
       <link>https://zhaokai-ee.github.io/authors/luca-peretti/</link>
     </image>
+    
+    <item>
+      <title>The Scalable Analytical Model for Calculating the Magnetic Field of Surface-Mounted Permanent Magnet Motor</title>
+      <link>https://zhaokai-ee.github.io/publication/the-scalable-analytical-model-for-calculating-the-magnetic-field-of-surface-mounted-permanent-magnet-motor/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/the-scalable-analytical-model-for-calculating-the-magnetic-field-of-surface-mounted-permanent-magnet-motor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hybrid Analytical Model for Predicting the Electromagnetic Losses in Surface-Mounted Permanent-Magnet Motors</title>
@@ -45,14 +53,6 @@
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The Scalable Analytical Model for Calculating the Magnetic Field of Surface-Mounted Permanent Magnet Motor</title>
-      <link>https://zhaokai-ee.github.io/publication/the-scalable-analytical-model-for-calculating-the-magnetic-field-of-surface-mounted-permanent-magnet-motor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://zhaokai-ee.github.io/publication/the-scalable-analytical-model-for-calculating-the-magnetic-field-of-surface-mounted-permanent-magnet-motor/</guid>
-      <description></description>
     </item>
     
   </channel>

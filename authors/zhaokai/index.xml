@@ -5,12 +5,59 @@
     <link>https://zhaokai-ee.github.io/authors/zhaokai/</link>
       <atom:link href="https://zhaokai-ee.github.io/authors/zhaokai/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhaokai</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Tue, 23 Apr 2024 19:15:00 +0000</lastBuildDate>
     <image>
       <url>https://zhaokai-ee.github.io/images/icon_hu48ea973b72a836bf9a5fd0201387e78c_21303_512x512_fill_lanczos_center_3.png</url>
       <title>Zhaokai</title>
       <link>https://zhaokai-ee.github.io/authors/zhaokai/</link>
     </image>
+    
+    <item>
+      <title>Narva course 2024 </title>
+      <link>https://zhaokai-ee.github.io/post/narvacourse2024/</link>
+      <pubDate>Tue, 23 Apr 2024 19:15:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/post/narvacourse2024/</guid>
+      <description>&lt;p&gt;Please refer to the original version to our group blog &lt;a href=&#34;https://www.kth.se/blogs/emd/&#34;&gt;KTH EMD&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As some of you already knew that I finally made up my mind to take a position in the academia rather than in the industry, it’s always hard for me to explain why. I’m neither a enthusiastic speaker nor a percipient thinker. It can be challengeable for me to go towards a position in a university. I thought that I should have lost my mind at that time. It drives me to explore my internal desire for this decision.&lt;/p&gt;
+&lt;p&gt;Before that, let me say some good word for our group, from the perspective of a native Chinese PhD. I have to admit that I’m so lucky to work in the EMD group, which “pulls” me to develop my research area in the postdoc period. (Footnote: the reason why I used “pull” rather than “push” is that I need to be efficient and open-minded dealing with my project work while exploring more research area freely. I don’t feel pushed or stressed out, and receive lots of help and supports. “push” is a negative word rather than a neutral word in my language). My supervisor Luca gave me the freedom to investigate the challenge and difficulty in the industry so that it could show the direction of our future work. In other words, I could work closely with Zparq and ABB to gain more experience.&lt;/p&gt;
+&lt;p&gt;In fact, it’s Luca who decided to join this project/team (ExpSkills-REM), whose latese event was to give the course at Narva. The aim of ExpSkills-REM is to educate professionals who work or intend to work in the field of permanent magnets along the whole value chain, including recycling and motor applications: Raw Materials, Technological Magnets, Circular Economy and Electromobility coming together. In Narva Estonia, Neo Performance Materials is building a permanent magnet factory, making it the first of its kind in Europe and the Western world. I hope this magnet product will be used in the permanent magnet motor soon.&lt;/p&gt;
+&lt;p&gt;For this course, thanks to the help and support of Luca, I had enough time to prepare our one-day module “Design and fabrication of REM-based devices and components” for this four-day course. Everything goes on well on those days except the heavy snow in Narva when we were visiting the factory.
+&lt;img src=&#34;./featured.jpg&#34; alt=&#34;Snowy day&#34; title=&#34;Snowy day&#34;&gt;
+Then, it became sunny again in the nex day.
+&lt;img src=&#34;./featured2.jpg&#34; alt=&#34;Sunny day&#34; title=&#34;Sunny day again&#34;&gt;
+For me, it’s the first time to give the course for the whole day. It is definitely a milestone in my life, but really tiring. Hence, I took a wonderful sauna after the course. There were always lots of interesting and useful discussion about some contents of the course, which inspired the teachers as well.&lt;/p&gt;
+&lt;p&gt;Coming back to the first question in this post, when comparing academia with industry, one of the major difference is that the position of the academia requires the duty of teaching and supervision, which is as important as the researching. I then realized that it’s also a great joy for me to discuss about the technical detail in the project as well as the philosophy of life. I hope to support my future friends (namely students) to freely explore their research and lifestyle. I already have been lucky enough to get this privilege at KTH and ZJU and I hope in the near future I also have the ability to share this luck/opportunity to those who believe in this way.&lt;/p&gt;
+&lt;p&gt;As this is my last weekend at KTH, I would like to say Hej då to all of you, EMD noblemen, project colleagues, and EPE friends. Take good care of yourself, as it is merely the deadline of the course, project, or paper, not the end of the world. Keep in touch and see you again.
+&lt;img src=&#34;./featured3.jpg&#34; alt=&#34;Bye&#34; title=&#34;Bye&#34;&gt;
+&lt;strong&gt;Hej då! KTH&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report</title>
+      <link>https://zhaokai-ee.github.io/news/20230324/</link>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/news/20230324/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m really happy to have seven month research stay at ABB Corporate Research Center in Västerås, Sweden. ABB colleagues are nice and friendly. I wish to have more contact with them both for work and spare time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Course</title>
+      <link>https://zhaokai-ee.github.io/news/20230401/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/news/20230401/</guid>
+      <description>&lt;p&gt;I was really happy to be one of the team member. The knowledge of permanent magnet is useful for the motor designer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Scalable Analytical Model for Calculating the Magnetic Field of Surface-Mounted Permanent Magnet Motor</title>
+      <link>https://zhaokai-ee.github.io/publication/the-scalable-analytical-model-for-calculating-the-magnetic-field-of-surface-mounted-permanent-magnet-motor/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/the-scalable-analytical-model-for-calculating-the-magnetic-field-of-surface-mounted-permanent-magnet-motor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Stockholm Bonfire</title>
@@ -288,14 +335,6 @@ By the way, I’m looking forward to seeing the post of IECON 2023, in which I w
       <link>https://zhaokai-ee.github.io/publication/a-hybrid-field-model-for-open-circuit-field-prediction-in-surface-mounted-pm-machines-considering-saturation/</link>
       <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://zhaokai-ee.github.io/publication/a-hybrid-field-model-for-open-circuit-field-prediction-in-surface-mounted-pm-machines-considering-saturation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Scalable Analytical Model for Calculating the Magnetic Field of Surface-Mounted Permanent Magnet Motor</title>
-      <link>https://zhaokai-ee.github.io/publication/the-scalable-analytical-model-for-calculating-the-magnetic-field-of-surface-mounted-permanent-magnet-motor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://zhaokai-ee.github.io/publication/the-scalable-analytical-model-for-calculating-the-magnetic-field-of-surface-mounted-permanent-magnet-motor/</guid>
       <description></description>
     </item>
     
