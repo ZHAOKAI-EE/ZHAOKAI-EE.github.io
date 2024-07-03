@@ -5,12 +5,21 @@
     <link>https://zhaokai-ee.github.io/authors/zhaokai/</link>
       <atom:link href="https://zhaokai-ee.github.io/authors/zhaokai/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhaokai</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Tue, 23 Apr 2024 19:15:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Fri, 07 Jun 2024 01:16:00 +0000</lastBuildDate>
     <image>
       <url>https://zhaokai-ee.github.io/images/icon_hu48ea973b72a836bf9a5fd0201387e78c_21303_512x512_fill_lanczos_center_3.png</url>
       <title>Zhaokai</title>
       <link>https://zhaokai-ee.github.io/authors/zhaokai/</link>
     </image>
+    
+    <item>
+      <title>Journal Paper</title>
+      <link>https://zhaokai-ee.github.io/news/20240607/</link>
+      <pubDate>Fri, 07 Jun 2024 01:16:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/news/20240607/</guid>
+      <description>&lt;p&gt;Bad news! Therefore we decided to submit to anather journal :)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Narva course 2024 </title>
@@ -34,19 +43,19 @@ For me, it’s the first time to give the course for the whole day. It is defini
     </item>
     
     <item>
-      <title>Report</title>
-      <link>https://zhaokai-ee.github.io/news/20230324/</link>
-      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://zhaokai-ee.github.io/news/20230324/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m really happy to have seven month research stay at ABB Corporate Research Center in Västerås, Sweden. ABB colleagues are nice and friendly. I wish to have more contact with them both for work and spare time.&lt;/p&gt;
+      <title>Life</title>
+      <link>https://zhaokai-ee.github.io/news/20240423/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/news/20240423/</guid>
+      <description>&lt;p&gt;I was really happy to see my new colleagues, who are nice to me!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Course</title>
-      <link>https://zhaokai-ee.github.io/news/20230401/</link>
+      <link>https://zhaokai-ee.github.io/news/20240407/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://zhaokai-ee.github.io/news/20230401/</guid>
+      <guid>https://zhaokai-ee.github.io/news/20240407/</guid>
       <description>&lt;p&gt;I was really happy to be one of the team member. The knowledge of permanent magnet is useful for the motor designer.&lt;/p&gt;
 </description>
     </item>
