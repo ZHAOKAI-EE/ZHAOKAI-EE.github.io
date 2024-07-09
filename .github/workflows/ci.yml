@@ -43,4 +43,4 @@ jobs:
       - name: Run custom testing procedure
         uses: matlab-actions/run-command@v2
         with:
-          command: test_M.m
+          command: test_M
