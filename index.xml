@@ -33,6 +33,24 @@
     </item>
     
     <item>
+      <title>Journal Paper</title>
+      <link>https://zhaokai-ee.github.io/news/20240607/</link>
+      <pubDate>Sun, 30 Nov 2025 01:16:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/news/20240607/</guid>
+      <description>&lt;p&gt;Good news! Our paper entitled &amp;ldquo;Improved Scalable Analytical Model for Predicting the Performance of SPM Machine Considering Magnet Shape and Magnetization Pattern&amp;rdquo; submitted to IEEE Transactions on IEEE Transactions on Instrumentation and Measurement. Sometimes I want to complain about the unjustice of the review process, manipulated by some unfriendly researcher. Nevertheless, paper is not life, either is one&amp;rsquo;s achievement. Let&amp;rsquo;s face the reality and make it a better place.&lt;/p&gt;
+&lt;p&gt;Beside, I would like to thank Luca and Bin, who help me a lot in my first step in Sweden, academically and in daily life. I hope that our friendship and collaboration will continue through our path towards a electrified world.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational Efficient DSVM-Based Model Predictive Direct Speed Control for SPMSM Drives With Mechanical Disturbance Suppression</title>
+      <link>https://zhaokai-ee.github.io/publication/improved-scalable-analytical-model-for-predicting-spm-motor-performance-considering-magnet-shape-and-magnetization-pattern/</link>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/improved-scalable-analytical-model-for-predicting-spm-motor-performance-considering-magnet-shape-and-magnetization-pattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Modified Deadbeat Predictive Current Control with Improved Dynamic Performance under Insufficient Voltage Margin for IPMSM</title>
       <link>https://zhaokai-ee.github.io/publication/a-modified-deadbeat-predictive-current-control-with-improved-dynamic-performance-under-insufficient-voltage-margin-for-ipmsm/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
@@ -46,17 +64,6 @@
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://zhaokai-ee.github.io/publication/smooth-nonlinear-eso-based-model-free-predictive-current-control-with-an-extended-control-set-for-spmsm-drives/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Journal Paper</title>
-      <link>https://zhaokai-ee.github.io/news/20240607/</link>
-      <pubDate>Sat, 01 Feb 2025 01:16:00 +0000</pubDate>
-      <guid>https://zhaokai-ee.github.io/news/20240607/</guid>
-      <description>&lt;p&gt;Bad news! Our paper entitled &amp;ldquo;Improved Scalable Analytical Model for Predicting the Performance of SPM Machine Considering Magnet Shape and Magnetization Pattern&amp;rdquo; submitted to IEEE Transactions on Magnetics rejected by  Therefore we decided to submit to another journal :)&lt;/p&gt;
-&lt;p&gt;Bad news! It is rejected by IEEE Transactions on Energy Conversion again. One reviewer is really a tough guy and it is impossible to convince him in the way :)&lt;/p&gt;
-&lt;p&gt;But another paper &amp;ldquo;Design and Quantitative Analysis of Asymmetric Flux Reversal Permanent Magnet Linear Machine with Reduced Leakage Flux&amp;rdquo; was accepted by IEEE Transactions on Magnetics.&lt;/p&gt;
-</description>
     </item>
     
     <item>

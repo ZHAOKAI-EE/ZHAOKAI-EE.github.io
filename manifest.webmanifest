@@ -2,8 +2,8 @@
   "name": "Zhaokai",
   "short_name": "Zhaokai",
   "lang": "en-us",
-  "theme_color": "#3f51b5",
-  "background_color": "#3f51b5",
+  "theme_color": "hsl(339, 90%, 68%)",
+  "background_color": "hsl(339, 90%, 68%)",
   "icons": [{
     "src": "/images/icon_hu48ea973b72a836bf9a5fd0201387e78c_21303_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
