@@ -143,8 +143,8 @@ For me, it’s the first time to give the course for the whole day. It is defini
 (This post also help me to learn how to put a video in the blog, hahaha)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Happy New Year!&lt;/strong&gt;&lt;/p&gt;
 &lt;video controls preload=&#34;auto&#34; width=&#34;100%&#34;  playsinline class=&#34;html-video&#34;&gt;
-    &lt;source src=&#34;https://zhaokai-ee.github.io/post/newyear2024/bofire.mp4&#34; type=&#34;video/mp4&#34;&gt;
-  &lt;span&gt;Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can &lt;a href=&#34;https://zhaokai-ee.github.io/post/newyear2024/bofire.mp4&#34;&gt;download it&lt;/a&gt; and watch it with your favorite video player!&lt;/span&gt;
+    &lt;source src=&#34;../../post/newyear2024/bofire.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;span&gt;Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can &lt;a href=&#34;../../post/newyear2024/bofire.mp4&#34;&gt;download it&lt;/a&gt; and watch it with your favorite video player!&lt;/span&gt;
 &lt;/video&gt;
 </description>
     </item>
