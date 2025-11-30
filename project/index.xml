@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Zhaokai</title>
-    <link>https://zhaokai-ee.github.io/project/</link>
-      <atom:link href="https://zhaokai-ee.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zhaokai-ee.github.io/ZHAOKAI-EE.github.io/project/</link>
+      <atom:link href="https://zhaokai-ee.github.io/ZHAOKAI-EE.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zhaokai-ee.github.io/images/icon_hu48ea973b72a836bf9a5fd0201387e78c_21303_512x512_fill_lanczos_center_3.png</url>
+      <url>https://zhaokai-ee.github.io/ZHAOKAI-EE.github.io/images/icon_hu48ea973b72a836bf9a5fd0201387e78c_21303_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://zhaokai-ee.github.io/project/</link>
+      <link>https://zhaokai-ee.github.io/ZHAOKAI-EE.github.io/project/</link>
     </image>
     
     <item>
       <title>Efficiency Low Cost Fan Motor</title>
-      <link>https://zhaokai-ee.github.io/project/high-efficiency-fan-motor/</link>
+      <link>https://zhaokai-ee.github.io/ZHAOKAI-EE.github.io/project/high-efficiency-fan-motor/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://zhaokai-ee.github.io/project/high-efficiency-fan-motor/</guid>
+      <guid>https://zhaokai-ee.github.io/ZHAOKAI-EE.github.io/project/high-efficiency-fan-motor/</guid>
       <description>&lt;p&gt;We developped a fan motor for data center. The current efficiency of the external-rotor SPM motor is 91.2%.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Motor Condition Monitor and Fault Diagnosis</title>
-      <link>https://zhaokai-ee.github.io/project/motor-faults/</link>
+      <link>https://zhaokai-ee.github.io/ZHAOKAI-EE.github.io/project/motor-faults/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://zhaokai-ee.github.io/project/motor-faults/</guid>
+      <guid>https://zhaokai-ee.github.io/ZHAOKAI-EE.github.io/project/motor-faults/</guid>
       <description>&lt;p&gt;We optimized and design the six-phase SPM motors with demagnetization and eccentric rotor using JMAG.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Design of High-Speed Permanent-Magnet Motor</title>
-      <link>https://zhaokai-ee.github.io/project/high-speed-pmsm/</link>
+      <link>https://zhaokai-ee.github.io/ZHAOKAI-EE.github.io/project/high-speed-pmsm/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://zhaokai-ee.github.io/project/high-speed-pmsm/</guid>
+      <guid>https://zhaokai-ee.github.io/ZHAOKAI-EE.github.io/project/high-speed-pmsm/</guid>
       <description>&lt;p&gt;We presented the comprehensive study of IPM and SPM at the speed range between 15000 rpm and 20000 rpm.&lt;/p&gt;
 </description>
     </item>

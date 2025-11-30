@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conference | Zhaokai</title>
-    <link>https://zhaokai-ee.github.io/categories/conference/</link>
-      <atom:link href="https://zhaokai-ee.github.io/categories/conference/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zhaokai-ee.github.io/ZHAOKAI-EE.github.io/categories/conference/</link>
+      <atom:link href="https://zhaokai-ee.github.io/ZHAOKAI-EE.github.io/categories/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Sat, 23 Dec 2023 19:15:00 +0000</lastBuildDate>
     <image>
-      <url>https://zhaokai-ee.github.io/images/icon_hu48ea973b72a836bf9a5fd0201387e78c_21303_512x512_fill_lanczos_center_3.png</url>
+      <url>https://zhaokai-ee.github.io/ZHAOKAI-EE.github.io/images/icon_hu48ea973b72a836bf9a5fd0201387e78c_21303_512x512_fill_lanczos_center_3.png</url>
       <title>Conference</title>
-      <link>https://zhaokai-ee.github.io/categories/conference/</link>
+      <link>https://zhaokai-ee.github.io/ZHAOKAI-EE.github.io/categories/conference/</link>
     </image>
     
     <item>
       <title>Study at IEMDC 2023 </title>
-      <link>https://zhaokai-ee.github.io/post/iemdc2023/</link>
+      <link>https://zhaokai-ee.github.io/ZHAOKAI-EE.github.io/post/iemdc2023/</link>
       <pubDate>Sat, 23 Dec 2023 19:15:00 +0000</pubDate>
-      <guid>https://zhaokai-ee.github.io/post/iemdc2023/</guid>
+      <guid>https://zhaokai-ee.github.io/ZHAOKAI-EE.github.io/post/iemdc2023/</guid>
       <description>&lt;p&gt;Please refer to the original version to our group blog &lt;a href=&#34;https://www.kth.se/blogs/emd/&#34;&gt;KTH EMD&lt;/a&gt;.
 It has been half a year since I participated in this international conference. Before I start to memorize the event at that conference, I would like to recommend some good conferences that are related to our research field (Maybe useful for fresh PhD and master students).  ECCE and ICEM are two of the most famous conferences in the field of electrical machines, I think. ECCE is held every year, while ICEM is held every two years. Besides, I would recommend ICEMS, PEMD, and IEMDC which attract lots of motor engineers. For the motor design, Intermag and CEFC are good conferences, where many conference papers can be published in the IEEE Transaction on Magnetics. Meanwhile, IECON is related to the field of motor control. As the transportation electrification is more and more popular nowadays, I think we can consider submitting the papers to VPPC and ITEC.&lt;br&gt;
 Let’s come back to the conference IEMDC 2023. Please allow me to copy the description of this conference from the official &lt;a href=&#34;https://www.iemdc.org/&#34;&gt;website&lt;/a&gt; so that I don’t need to summarizeit :). The 14th IEEE International Electric Machines and Drives Conference (IEMDC) was held May 15-18, 2023 in San Francisco, CA. IEMDC provides a forum to share technology advances and new developments in the design, operation, analysis, and applications of electric machines and drives. Contributions are invited from industry, academia, and other sectors. Accepted and presented papers will be published in the Conference Proceedings, which will be submitted to the IEEE Xplore® digital library. Papers presented at IEMDC may be submitted to IEEE Transactions on Industry Applications, IEEE Transactions on Energy Conversion, IEEE Transactions on Industrial Electronics, or IEEE Transactions on Power Electronics, according to the rules specific to each journal.&lt;br&gt;

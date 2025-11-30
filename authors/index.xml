@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Zhaokai</title>
-    <link>https://zhaokai-ee.github.io/authors/</link>
-      <atom:link href="https://zhaokai-ee.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zhaokai-ee.github.io/ZHAOKAI-EE.github.io/authors/</link>
+      <atom:link href="https://zhaokai-ee.github.io/ZHAOKAI-EE.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Sun, 30 Nov 2025 01:16:00 +0000</lastBuildDate>
     <image>
-      <url>https://zhaokai-ee.github.io/images/icon_hu48ea973b72a836bf9a5fd0201387e78c_21303_512x512_fill_lanczos_center_3.png</url>
+      <url>https://zhaokai-ee.github.io/ZHAOKAI-EE.github.io/images/icon_hu48ea973b72a836bf9a5fd0201387e78c_21303_512x512_fill_lanczos_center_3.png</url>
       <title>Authors</title>
-      <link>https://zhaokai-ee.github.io/authors/</link>
+      <link>https://zhaokai-ee.github.io/ZHAOKAI-EE.github.io/authors/</link>
     </image>
     
   </channel>
