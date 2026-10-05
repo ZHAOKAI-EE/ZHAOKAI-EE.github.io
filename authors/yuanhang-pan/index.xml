@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuanhang Pan | Zhaokai</title>
+    <link>https://zhaokai-ee.github.io/authors/yuanhang-pan/</link>
+      <atom:link href="https://zhaokai-ee.github.io/authors/yuanhang-pan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuanhang Pan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Mon, 09 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhaokai-ee.github.io/images/icon_hu48ea973b72a836bf9a5fd0201387e78c_21303_512x512_fill_lanczos_center_3.png</url>
+      <title>Yuanhang Pan</title>
+      <link>https://zhaokai-ee.github.io/authors/yuanhang-pan/</link>
+    </image>
+    
+    <item>
+      <title>Conceptual design and optimization study of a 3 MW fully superconducting synchronous electrical machine for the electric aircraft based on the magnetic vector potential boundary method</title>
+      <link>https://zhaokai-ee.github.io/publication/conceptual-design-and-optimization-study-of-a-3-mw-fully-superconducting-synchronous-electrical-machine-for-the-electric-aircraft-based-on-the-magnetic-ve/</link>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://zhaokai-ee.github.io/publication/conceptual-design-and-optimization-study-of-a-3-mw-fully-superconducting-synchronous-electrical-machine-for-the-electric-aircraft-based-on-the-magnetic-ve/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
